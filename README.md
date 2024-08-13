@@ -21,14 +21,13 @@ Open the index.html file in your web browser:
 open index.html
 
 ## Project Structure
-css
-Copy code
 amazon-clone/
 ├── index.html
 ├── css/
 │   └── style.css
 └── images/
     └── (all images used in the project)
+
     
 ## Key Learning Outcomes
 Attention to Detail: Carefully replicating the design elements of the Amazon website helped in honing an eye for detail and consistency.
